@@ -1,2 +1,2 @@
 vinsearch/
-    └── search.php: Handles VIN search and displays results.
+    └── search.php: Handles VIN search and displays results
